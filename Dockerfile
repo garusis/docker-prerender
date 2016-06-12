@@ -1,6 +1,6 @@
-FROM node:latest
+FROM node:5
 
-MAINTAINER Marcos J. Alvarez "garusus@gmail.com"
+MAINTAINER Marcos J. Alvarez "garusis@gmail.com"
 
 RUN echo deb http://ftp.debian.org/debian/ jessie main contrib non-free > /etc/apt/source.list
 
