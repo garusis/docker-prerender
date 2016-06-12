@@ -4,7 +4,7 @@
   "description": "Dockerfile to build the prerender container image",
   "main": "server.js",
   "dependencies": {
-    "prerender": "^3.14.1"
+    "prerender": "^4.0.10"
   },
   "devDependencies": {},
   "scripts": {
@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cerisier/docker-prerender.git"
+    "url": "https://github.com/garusis/docker-prerender.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cerisier/docker-prerender/issues"
+    "url": "https://github.com/garusis/docker-prerender/issues"
   },
-  "homepage": "https://github.com/cerisier/docker-prerender"
+  "homepage": "https://github.com/garusis/docker-prerender"
 }
